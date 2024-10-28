@@ -6,17 +6,9 @@
 
 ---
 
-<!-- Language Selector with Flag Images -->
 <p align="center">
-  <a href="README.en.md">
-    <img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" width="50" alt="English" />
-  </a>
-  <a href="README.fr.md">
-    <img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" width="50" alt="Español" />
-  </a>
-  <a href="README.fr.md">
-    <img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" width="50" alt="Español" />
-  </a>
+  <a href="README.en.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="English" width="50px" style="margin-right: 20px;"></a>
+  <a href="README.fr.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="Español" width="50px" style="margin-right: 20px;"></a>
 </p>
 
 ---
