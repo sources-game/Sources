@@ -11,3 +11,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="README.fr.md"><img src="[french_crop](https://github.com/user-attachments/assets/98c8448c-08d8-4280-902a-81801a62af61)" alt="French" width="50px" height="30px"></a>
 </p>
+![sources_light](https://github.com/user-attachments/assets/67ff5d33-7227-43c9-a952-2b05dd538b3c)
