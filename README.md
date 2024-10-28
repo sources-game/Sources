@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">
-  <a href="README.en.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="English" width="50px" style="margin-right: 50px;"></a>
-  <a href="README.fr.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="Español" width="50px" style="margin-right: 50px;"></a>
+<p align="center" style="display: flex; justify-content: center; gap: 100px;">
+  <a href="README.en.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="English" width="50px"></a>
+  <a href="README.fr.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="Español" width="50px"></a>
 </p>
