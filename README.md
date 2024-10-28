@@ -14,6 +14,9 @@
   <a href="README.fr.md">
     <img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" width="50" alt="Español" />
   </a>
+  <a href="README.fr.md">
+    <img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" width="50" alt="Español" />
+  </a>
 </p>
 
 ---
