@@ -12,8 +12,8 @@
     <img src="https://github.com/sources-game/Sources/blob/main/sources_dark.png" width="50" alt="English" />
   </a>
   &nbsp; <!-- This adds some spacing between the flags -->
-  <a href="README.es.md">
-    <img src="https://github.com/sources-game/Sources/blob/main/sources_light.png" width="50" alt="Español" />
+  <a href="README.fr.md">
+    <img src="https://github.com/sources-game/Sources/blob/main/assets/france_crop.png" width="50" alt="Español" />
   </a>
 </p>
 
