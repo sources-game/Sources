@@ -6,7 +6,8 @@
 
 ---
 
-<p align="center" style="display: flex; justify-content: center; gap: 100px;">
+<p align="center">
   <a href="README.en.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="English" width="50px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="README.fr.md"><img src="https://github.com/sources-game/Sources/blob/assets/france_crop.png" alt="Español" width="50px"></a>
 </p>
